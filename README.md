@@ -13,21 +13,6 @@ I’m passionate about building **full-stack web apps**, **machine learning mode
 
 ---
 
-## 📌 Current Focus
-- 🔬 Machine Learning  
-- 🖥️ Full-stack development with React + Spring Boot  
-- 🐳 Containerization & deployment using Docker  
-- 🛡️ Learning Spring Security from scratch  
-
----
-
-## 🌱 Learning Goals
-- Master advanced **MLOps deployment** for AI apps  
-- Deep dive into **Software development**  
-- Explore **cloud deployment** (AWS / GCP / Azure)  
-
----
-
 ## 📫 Connect with Me
 - GitHub: https://github.com/ManethNin
 - LinkedIn: linkedin.com/in/maneth-ninduwara-31b890291
