@@ -14,7 +14,6 @@ I’m passionate about building **full-stack web apps**, **machine learning mode
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/ManethNin
 - LinkedIn: linkedin.com/in/maneth-ninduwara-31b890291
 - Email: kgmninduwara@gmail.com
 ---
